@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit Gupta @stoic_harsh
-- 👀 I’m interested in cooking, music, movies, web & app development, and everthing that is new and excites me.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in anything and everything that teaches me something new.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on OpenCV projects.
 - 📫 Connect me on => https://www.linkedin.com/in/stoic-harsh/
 
 <!---
